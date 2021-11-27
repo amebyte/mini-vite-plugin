@@ -27,6 +27,20 @@ export default defineComponent({
   },
 });
 </script>
+
+<i18n>
+{
+    "en": {
+        "language": "Language",
+        "hello": "hello, world !"
+    },
+    "ja": {
+        "language": "语言",
+        "hello": "你好，世界！"
+    }
+}
+</i18n>
+
 <style module>
 .logo {
   background-image: url(@/assets/logo.png);
