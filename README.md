@@ -42,3 +42,11 @@ export default function (options) {
 - transform：可用于转换已加载的模块内容
 - handleHotUpdate：自定义HMR更新时调用
 
+
+
+
+
+
+
+
+
